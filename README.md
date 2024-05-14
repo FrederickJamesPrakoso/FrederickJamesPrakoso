@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Artem Website Project**
 
-- 🌱 I’m currently learning **Network Security**
+- 🌱 I’m currently learning **Front Development**
 
 - 👯 I’m looking to collaborate on **any project for me to learn, web development are good starters for me.**
 
@@ -14,7 +14,7 @@
 
 - 📫 You may contact me via gmail: **jamesprakoso891@gmail.com**
 
-- ⚡ Fun fact **Digging for knowledge to find my passion**
+- ⚡ Fun fact: **Digging for knowledge to find my passion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
