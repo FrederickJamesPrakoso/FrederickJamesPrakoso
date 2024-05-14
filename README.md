@@ -2,7 +2,7 @@
 <h3 align="center">Finding passion inside computer science.</h3>
 <img = align="right" alt ="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
-- 🔭 I’m currently working on **Interactive Visualization Project**
+- 🔭 I’m currently working on **Artem Website Project**
 
 - 🌱 I’m currently learning **Network Security**
 
