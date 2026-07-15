@@ -2,13 +2,11 @@
 <h3 align="center">Finding passion inside computer science.</h3>
 <img = align="right" alt ="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
-- 🔭 I’m currently working on **Artem Website Project**
-
-- 🌱 I’m currently learning **Front Development**
+- 🌱 I’m currently learning **Frontend Development, Backend Development, and Devops**
 
 - 👯 I’m looking to collaborate on **any project for me to learn, web development are good starters for me.**
 
-- 🤝 I’m looking for help with **Programming and Web Development**
+- 🤝 I’m looking for help with **Programming, Web Development, and Devops Engineering**
 
 - 💬 Ask me about **any Knowledge and Materials in Computer Science for me to learn and understand**
 
